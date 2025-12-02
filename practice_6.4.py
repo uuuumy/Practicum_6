@@ -1,6 +1,6 @@
 n = int(input())
-n1 = int(n[0])
-n2 = n[1]
+n2 = n[0]
+n1 = int(n[1])
 n2 = n2.replace("a", 1)
 n2 = n2.replace("b", 2)
 n2 = n2.replace("c", 3)
